@@ -10,9 +10,10 @@ There is no Windows-Version available.
 
 This tool is free to use and to modify. However, you must add following references in case of any publication:
 
+D. A. Reis and F. Sill Torres, "A novel methodology for robustness analysis of QCA circuits", Proceedings of 28th Symposium on Integrated Circuits and Systems Design, p. 15:1-15:6, Salvador, Brazil, 2015.
+
 K. Walus, T. J. Dysart, G. A. Jullien, and R. A. Budiman, "QCADesigner: a rapid design and Simulation tool for quantum-dot cellular automata," IEEE Transactions on Nanotechnology, vol. 3, pp. 26-31, 2004.
 
-D. A. Reis and F. Sill Torres, "A novel methodology for robustness analysis of QCA circuits", Proceedings of 28th Symposium on Integrated Circuits and Systems Design, p. 15:1-15:6, Salvador, Brazil, 2015.
 
 ---------------------------------------------
 
